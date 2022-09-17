@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure Algorithum**
 
-- 👨‍💻 All of my projects are available at [https://ankitbisen28.github.io/my-portfolio-react/](https://ankitbisen28.github.io/my-portfolio-react/)
+- 👨‍💻 All of my projects are available at [https://github.com/ankitbisen28](https://github.com/ankitbisen28)
 
 - 💬 Ask me about **Web Things**
 
