@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankitbisen28" target="blank"><img src="https://img.shields.io/twitter/follow/ankitbisen28?logo=twitter&style=for-the-badge" alt="ankitbisen28" /></a> </p>
 
-- 🔭 I’m currently working on **Gym Application**
+- 🔭 I’m currently working on **Portfolio Blog Page**
+
+- 📧 Currenlty working project : [[https://github.com/ankitbisen28](https://github.com/ankitbisen28/my-portfolio-react)](https://github.com/ankitbisen28/my-portfolio-react) 
 
 - 🌱 I’m currently learning **Data Structure Algorithum**
 
