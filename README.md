@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Portfolio Blog Page**
 
-- 📧 Currenlty working project : [[https://github.com/ankitbisen28](https://github.com/ankitbisen28/my-portfolio-react)](https://github.com/ankitbisen28/my-portfolio-react) 
+- 📧 Currenlty working project : (https://github.com/ankitbisen28/my-portfolio-react) 
 
 - 🌱 I’m currently learning **Data Structure Algorithum**
 
