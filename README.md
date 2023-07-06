@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Adonisjs Project**
 
-- 📧 Currenlty working project : https://github.com/ankitbisen28/my-portfolio-react 
+- 📧 Currently working on the project: https://github.com/ankitbisen28/my-portfolio-react 
 
-- 🌱 I’m currently learning **Data Structure Algorithum**
+- 🌱 I’m currently learning **Adonisjs and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitbisen28](https://github.com/ankitbisen28)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ankitbisen28/](https://www.linkedin.com/in/ankitbisen28/)
 
-- ⚡ Fun fact **I'm a Cool**
+- ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
