@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Adonisjs Project**
 
-- 📧 Currently working on the project: [https://github.com/ankitbisen28/meydit-frontend](https://github.com/ankitbisen28/meydit-frontend) 
+- 📧 Currently working on the project: [https://github.com/ankitbisen28/meydit-frontend](https://github.com/ankitbisen28/mobilicis) 
 
 - 🌱 I’m currently learning **Adonisjs and Typescript**
 
