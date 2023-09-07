@@ -7,7 +7,7 @@
 
 - 📧 Currently working on the project: [https://github.com/ankitbisen28/mobilicis](https://github.com/ankitbisen28/mobilicis) 
 
-- 🌱 I’m currently learning **Adonisjs and Typescript**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ankitbisen28](https://github.com/ankitbisen28)
 
