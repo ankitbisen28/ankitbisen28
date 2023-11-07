@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Meyd.it](https://github.com/ankitbisen28/meydit-frontend)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on [Exercise Web app](https://github.com/ankitbisen28/Exercise-web-app)
 
