@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/ankitbisen28" target="blank"><img src="https://img.shields.io/twitter/follow/ankitbisen28?logo=twitter&style=for-the-badge" alt="ankitbisen28" /></a> </p>
 
-- 🔭 I’m currently working on [Meyd.it](https://github.com/ankitbisen28/meydit-frontend)
+- 🔭 I’m currently working on [Collabsphere](https://github.com/squad-a/Collabsphere-backend)
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on [Exercise Web app](https://github.com/ankitbisen28/Exercise-web-app)
+- 👯 I’m looking to collaborate on [Collabsphere](https://github.com/squad-a/Collabsphere-backend)
 
 - 🤝 I’m looking for help with [Meydit](https://github.com/ankitbisen28/meydit-frontend)
 
