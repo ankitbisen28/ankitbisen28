@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/ankitbisen28" target="blank"><img src="https://img.shields.io/twitter/follow/ankitbisen28?logo=twitter&style=for-the-badge" alt="ankitbisen28" /></a> </p>
 
-- 🔭 I’m currently working on [Collabsphere](https://github.com/squad-a/Collabsphere-backend)
+- 🔭 I’m currently working on [Zenspace](https://github.com/squad-a/zenspace-desktop-app)
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on [Collabsphere](https://github.com/squad-a/Collabsphere-backend)
+- 👯 I’m looking to collaborate on [Zenspace](https://github.com/squad-a/zenspace-desktop-app)
 
 - 🤝 I’m looking for help with [Meydit](https://github.com/ankitbisen28/meydit-frontend)
 
-- 👨‍💻 All of my projects are available at [ankitbisen.live](ankitbisen.live)
+- 👨‍💻 All of my projects are available at [ankitbisen.live](https://ankitbisen.live)
 
 - 💬 Ask me about **React, Node, Linux**
 
