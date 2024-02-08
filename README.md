@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ankitbisen28" target="blank"><img src="https://img.shields.io/twitter/follow/ankitbisen28?logo=twitter&style=for-the-badge" alt="ankitbisen28" /></a> </p>
 
-- 🔭 I’m currently working on [HashHive](https://github.com/squad-a/HashHive)
+- 🔭 I’m currently working on [Eatotopia](https://github.com/ankitbisen28/Eatotopia)
 
 - 🌱 I’m currently learning **Golang**
 
