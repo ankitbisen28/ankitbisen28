@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankitbisen28" target="blank"><img src="https://img.shields.io/twitter/follow/ankitbisen28?logo=twitter&style=for-the-badge" alt="ankitbisen28" /></a> </p>
 
-- 🔭 I’m currently working on [Atelier](https://github.com/ankitbisen28/Atelier)
+- 🔭 I’m currently working in **Tata Consultany Services**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on [Atelier](https://github.com/ankitbisen28/Atelier)
 
